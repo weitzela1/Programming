@@ -1,0 +1,12 @@
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\Programming.exe.config
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\Programming.exe
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\Programming.dll
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\obj\Debug\Programming.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\obj\Debug\Programming.MainForm.resources
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\obj\Debug\Programming.pyproj.GenerateResource.Cache
+C:\Users\weitzel.a1\Documents\SharpDevelop Projects\Programming\Programming\obj\Debug\Programming.exe
